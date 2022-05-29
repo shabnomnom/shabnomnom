@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shabnomnom
-- 👀 I’m interested in creating APIs.
+- 👀 I’m interested in creating APIs to solve problems. 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on prject related to addressing climate crisis and sustainability, 
 - 📫 How to reach me  my email address is shabnam.shomail@gmail.com
